@@ -1,0 +1,24 @@
+# Core Deep Learning stack
+torch==2.6.0
+torchvision==0.21.0
+torchaudio==2.6.0
+
+# Course-specific package
+npfl138==2425.8.0
+
+# NumPy/SciPy compatibility
+numpy<2
+scipy>=1.7,<1.12
+
+# Jupyter (optional, if you use notebooks)
+jupyter
+notebook
+
+# Common NLP packages (you can remove if not needed)
+transformers
+datasets
+scikit-learn
+matplotlib
+seaborn
+tqdm
+fasttext-wheel
