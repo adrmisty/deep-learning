@@ -1,0 +1,13 @@
+{
+  "args : argparse.Namespace": {
+    "evaluate": false,
+    "recodex": false,
+    "render": false,
+    "seed": 42,
+    "threads": 1,
+    "batch_size": 8,
+    "epochs": 50,
+    "model": "gym_cartpole_model.pt",
+    "logdir": "logs\\gym_cartpole.py-2025-03-07_122011-bs=8,e=50,e=False,m=gym_cartpole_model.pt,r=False,r=False,s=42,t=1"
+  }
+}
