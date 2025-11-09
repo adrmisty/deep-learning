@@ -1,0 +1,1 @@
+Epoch 1/1 14.5s train_loss=0.4409 train_accuracy=0.8615 dev_loss=0.1920 dev_accuracy=0.9426
